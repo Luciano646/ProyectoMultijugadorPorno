@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e7659889d46a8f4f81f07271edf2c7a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249226
+  packageName: NYX - Input System
+  packageVersion: 1.4.2
+  assetPath: Assets/NYX/Resources/GUI/Prefabs/NYX_GUI.prefab
+  uploadId: 637892

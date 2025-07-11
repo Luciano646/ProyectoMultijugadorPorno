@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c6cddb499334b44fa55af5f6b735832
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249226
+  packageName: NYX - Input System
+  packageVersion: 1.4.2
+  assetPath: Assets/NYX/Resources/GUI/Prefabs/NYX_EventSystem.prefab
+  uploadId: 637892
